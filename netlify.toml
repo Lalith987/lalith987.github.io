@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "dist/public"
+
+# Redirect all non-file routes back to index.html so the SPA can handle routing
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200 
