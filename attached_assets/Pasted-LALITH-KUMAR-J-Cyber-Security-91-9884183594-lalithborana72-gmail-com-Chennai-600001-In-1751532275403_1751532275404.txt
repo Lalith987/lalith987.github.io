@@ -1,0 +1,95 @@
+LALITH KUMAR J
+
+Cyber Security
+
++91 9884183594
+
+lalithborana72@gmail.com
+
+Chennai-600001, India
+
+SUMMARY
+
+I am a passionate Third-year cybersecurity student at Sathyabama Institute of Science and Technology, specializing in web exploitation and cryptography analysis. As an active Capture the Flag (CTF) player, I have honed my skills in identifying and exploiting vulnerabilities in diverse environments. Currently, I am expanding my expertise into the world of bug bounty hunting, focusing on real-world applications and VAPT practices.
+
+ACCOMPLISHMENT
+
+EDUCATION
+
+Sathyabama Institute of Science and Technology
+
+B.E-Computer Science and Engineering with specialization in Cyber Security 2023-2027
+
+Motilal Forma Santana Dharma Higher Secondary School
+
+11STD Pass 2022
+
+12 STD Pass 2023
+
+Sri LG G Mat Higher Secondary
+
+School
+
+10STD Pass 2021
+
+SKILLS
+
+Python Programming
+
+OS (Linux, Windows)
+
+VAPT
+
+Network Penetration Testing
+
+Social Engineering
+
+Security Researcher
+
+CTF Player
+
+Web Application Pentesting
+
+Android Pentesting
+
+OWASP TOP 10
+
+CERTIFICATIONS
+
+DCJSP(Defronix Certified Junior Security Professional)
+
+NPTEL Ethical Hacking
+
+NPTEL Java Programming
+
+Master Ethical Hacking & Bug
+
+Bounty-OSCP 2.0
+
+1st Place in the Horizon - CTF
+
+1st Place in innovative challenge -CTF
+
+EXPERIENCE
+
+Pinnacle Labs Cyber security 19 August 2024-18 September 2024 (1 month)
+
+Tamil Nadu, India I successfully completed a Cyber security internship at Pinnacle Lab, where I'm worked on four critical cybersecurity tasks: text encryption, keylogger software development, image encryption, and password analysis. These projects are enhanced my skills in encryption, ethical hacking, and security tool creation.
+
+DCAPT Program (Ongoing)
+
+Defronix Academic | [14th Sept 2024]-Present Comprehensive training in Vulnerability Assessment and Penetration Testing (VAPT).
+
+Hands-on lab sessions involving real-world scenarios and advanced tools.
+
+LANGUAGES
+
+Hindi (Native or Bilingual)
+
+English
+
+Tamil
+
+SOCIAL MIDEA
+
+Linkedin: Lalith Kumar J
